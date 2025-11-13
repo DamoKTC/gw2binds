@@ -1,0 +1,71 @@
+<InputBindings>
+    <action name="Move Forward" id="0" device="Keyboard" button="69" device2="None"/>
+    <action name="Move Backward" id="1" device="Keyboard" button="68" device2="None"/>
+    <action name="Strafe Left" id="2" device="Keyboard" button="83" device2="None"/>
+    <action name="Strafe Right" id="3" device="Keyboard" button="70" device2="None"/>
+    <action name="Turn Left" id="4" device="None" device2="Keyboard" button2="29"/>
+    <action name="Turn Right" id="5" device="None" device2="Keyboard" button2="30"/>
+    <action name="Autorun" id="7" device="Keyboard" button="31" device2="None"/>
+    <action name="Walk" id="8" device="Keyboard" button="28"/>
+    <action name="About Face" id="12" device="Keyboard" button="78"/>
+    <action name="Look Behind" id="16" device="Keyboard" button="66"/>
+    <action name="Toggle Action Camera" id="78" device="Keyboard" button="109"/>
+    <action name="Swap Weapons" id="17" device="Keyboard" button="90"/>
+    <action name="Healing Skill" id="23" device="Keyboard" button="81"/>
+    <action name="Utility Skill 1" id="24" device="Keyboard" button="87"/>
+    <action name="Utility Skill 2" id="25" device="Keyboard" button="67"/>
+    <action name="Utility Skill 3" id="26" device="Keyboard" button="88"/>
+    <action name="Elite Skill" id="27" device="Keyboard" button="82"/>
+    <action name="Mount/Dismount" id="152" device="Mouse" button="4"/>
+    <action name="Profession Skill 1" id="28" device="Keyboard" button="49" mod="1"/>
+    <action name="Profession Skill 2" id="29" device="Keyboard" button="50" mod="1"/>
+    <action name="Profession Skill 3" id="30" device="Keyboard" button="51" mod="1"/>
+    <action name="Profession Skill 4" id="31" device="Keyboard" button="52" mod="1"/>
+    <action name="Profession Skill 5" id="79" device="Keyboard" button="53" mod="1"/>
+    <action name="Profession Skill 6" id="201" device="Keyboard" button="81" mod="1"/>
+    <action name="Profession Skill 7" id="202" device="Keyboard" button="87" mod="1"/>
+    <action name="Set Personal Target" id="199" device="Keyboard" button="82" mod="1"/>
+    <action name="Nearest Ally" id="37" device="Keyboard" button="22" mod="2"/>
+    <action name="Next Ally" id="38" device="Keyboard" button="87" mod="2"/>
+    <action name="Lock Autotarget" id="40" device="Keyboard" button="89"/>
+    <action name="Ally Targeting Mode" id="197" device="Keyboard" button="78" mod="1"/>
+    <action name="Toggle Ally Targeting Mode" id="198" device="Keyboard" button="72" mod="1"/>
+    <action name="Black Lion Trading Dialog" id="41" device="Keyboard" button="39"/>
+    <action name="Contacts Dialog" id="42" device="Keyboard" button="43"/>
+    <action name="Guild Dialog" id="43" device="Keyboard" button="41"/>
+    <action name="Hero Dialog" id="44" device="Keyboard" button="40"/>
+    <action name="Inventory Dialog" id="45" device="Keyboard" button="38"/>
+    <action name="Pet Dialog" id="46" device="Keyboard" button="37"/>
+    <action name="Log Out" id="47" device="None"/>
+    <action name="Options Dialog" id="48" device="None"/>
+    <action name="Scoreboard" id="50" device="Keyboard" button="7"/>
+    <action name="Information Dialog" id="51" device="None"/>
+    <action name="Interact" id="65" device="Keyboard" button="71"/>
+    <action name="Show Enemy Names" id="66" device="None"/>
+    <action name="Show Ally Names" id="67" device="None"/>
+    <action name="Stow/Draw Weapons" id="68" device="Keyboard" button="72"/>
+    <action name="Ranger Pet Combat Toggle" id="76" device="Keyboard" button="55" mod="1"/>
+    <action name="Mount Ability 2" id="153" device="Keyboard" button="90"/>
+    <action name="Raptor Mount/Dismount" id="155" device="Mouse" button="3" mod="1"/>
+    <action name="Springer Mount/Dismount" id="156" device="Mouse" button="4" mod="1"/>
+    <action name="Skimmer Mount/Dismount" id="157" device="Mouse" button="1" mod="1"/>
+    <action name="Jackal Mount/Dismount" id="158" device="Mouse" button="4" mod="2"/>
+    <action name="Griffon Mount/Dismount" id="159" device="Mouse" button="3" mod="2"/>
+    <action name="Roller Beetle Mount/Dismount" id="161" device="Mouse" button="1" mod="2"/>
+    <action name="Warclaw Mount/Dismount" id="169" device="Mouse" button="1" mod="4"/>
+    <action name="Skyscale Mount/Dismount" id="170" device="Mouse" button="3" mod="4"/>
+    <action name="Siege Turtle Mount/Dismount" id="203" device="Mouse" button="4" mod="4"/>
+    <action name="Special Action" id="82" device="Mouse" button="3"/>
+    <action name="Activate Chair" id="163" device="Keyboard" button="72" mod="4"/>
+    <action name="Activate Musical Instrument" id="164" device="Keyboard" button="74" mod="4"/>
+    <action name="Activate Held Item" id="165" device="Keyboard" button="75" mod="4"/>
+    <action name="Activate Toy" id="166" device="Keyboard" button="76" mod="4"/>
+    <action name="Activate Tonic" id="167" device="Keyboard" button="14" mod="4"/>
+    <action name="Decorate Mode Toggle" id="210" device="Keyboard" button="76" mod="5"/>
+    <action name="Activate Mastery Skill" id="196" device="None"/>
+    <action name="Start Fishing" id="204" device="Keyboard" button="74"/>
+    <action name="Summon Skiff" id="205" device="Keyboard" button="72"/>
+    <action name="Set Jade Bot Waypoint" id="206" device="Keyboard" button="14"/>
+    <action name="Scan for Rift" id="207" device="Keyboard" button="75"/>
+    <action name="Skyscale Leap" id="208" device="Keyboard" button="76"/>
+</InputBindings>
